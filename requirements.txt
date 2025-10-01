@@ -1,0 +1,20 @@
+# === Core runtime ===
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+plotly>=5.0.0
+kaleido>=0.2.1
+pyyaml>=6.0
+openpyxl>=3.1
+
+# === Testing ===
+pytest>=8.0
+
+# === Optional/Useful extras ===
+charset-normalizer>=3.2
+chardet>=5.2
+pyarrow>=14.0
+pandera>=0.17
+ruff>=0.5
+black>=24.0
+mypy>=1.8
